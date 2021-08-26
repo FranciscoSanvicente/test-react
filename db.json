@@ -1,0 +1,129 @@
+{
+    "utilization": [
+      {
+        "device": "DEV-1000",
+        "date": "2021-01-22",
+        "hours": 12
+      },
+      {
+        "device": "DEV-2056",
+        "date": "2021-01-21",
+        "hours": 15
+      },
+      {
+        "device": "DEV-5934",
+        "date": "2021-01-22",
+        "hours": 8
+      },
+      {
+        "device": "DEV-4829",
+        "date": "2021-01-23",
+        "hours": 18
+      },
+      {
+        "device": "DEV-5934",
+        "date": "2021-01-20",
+        "hours": 9
+      },
+      {
+        "device": "DEV-1000",
+        "date": "2021-01-24",
+        "hours": 16
+      },
+      {
+        "device": "DEV-2056",
+        "date": "2021-01-22",
+        "hours": 3
+      },
+      {
+        "device": "DEV-1000",
+        "date": "2021-01-21",
+        "hours": 6
+      },
+      {
+        "device": "DEV-4829",
+        "date": "2021-01-22",
+        "hours": 16
+      },
+      {
+        "device": "DEV-2056",
+        "date": "2021-01-23",
+        "hours": 10
+      },
+      {
+        "device": "DEV-2056",
+        "date": "2021-01-24",
+        "hours": 10
+      },
+      {
+        "device": "DEV-3892",
+        "date": "2021-01-21",
+        "hours": 1
+      },
+      {
+        "device": "DEV-3892",
+        "date": "2021-01-22",
+        "hours": 19
+      },
+      {
+        "device": "DEV-3892",
+        "date": "2021-01-23",
+        "hours": 21
+      },
+      {
+        "device": "DEV-3892",
+        "date": "2021-01-24",
+        "hours": 11
+      },
+      {
+        "device": "DEV-5934",
+        "date": "2021-01-24",
+        "hours": 9
+      },
+      {
+        "device": "DEV-4829",
+        "date": "2021-01-20",
+        "hours": 5
+      },
+      {
+        "device": "DEV-2056",
+        "date": "2021-01-20",
+        "hours": 20
+      },
+      {
+        "device": "DEV-1000",
+        "date": "2021-01-23",
+        "hours": 2
+      },
+      {
+        "device": "DEV-4829",
+        "date": "2021-01-21",
+        "hours": 14
+      },
+      {
+        "device": "DEV-4829",
+        "date": "2021-01-24",
+        "hours": 13
+      },
+      {
+        "device": "DEV-1000",
+        "date": "2021-01-20",
+        "hours": 8
+      },
+      {
+        "device": "DEV-5934",
+        "date": "2021-01-21",
+        "hours": 10
+      },
+      {
+        "device": "DEV-3892",
+        "date": "2021-01-20",
+        "hours": 8
+      },
+      {
+        "device": "DEV-5934",
+        "date": "2021-01-23",
+        "hours": 17
+      }
+    ]
+  }
